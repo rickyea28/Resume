@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: white;
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: sans-serif;
+  color: lightblue; 
+}
+
+h3{
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: sans-serif;
+  border-style: solid;
+  border-radius:5px;
+  padding:3px;
+  border-color: lightblue;
+  color: lightblue;
+} 
+
+h2{
+  letter-spacing: 3px;
+  font-family: sans-serif;
+  color: white; 
+}
+
+p {
+  font-size: 15px;
+  font-family: sans-serif; 
+  margin-right: 5px;
+}
+
+.main-img {
+  border-style:dotted;
+  border-radius: 10px;
+  border-color:lightblue;
+  border-width: 4px;
+  padding: 2px;
+  width: 105px;
+  height: 115px;
+}
+#headers {
+  background-color: lightblue;
+}
